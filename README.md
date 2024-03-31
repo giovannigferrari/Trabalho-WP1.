@@ -1,1 +1,51 @@
-# Trabalho-WP1.
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Home </title>
+        <style>
+            body {
+                margin:0 ;
+                padding:0 ;
+                background-image: url("Capturar4.PNG");
+                background-size:cover;
+                background-repeat: no-repeat;
+            }  Img{
+                width: 500px;
+                height: 400px;
+            }
+        </style>
+    </head>
+    <body>
+        <table align="center" border="3" color="blue">
+            <tr>
+                <td>   <a href="Home.html"> <big> Home </big> </a> &nbsp; </td> 
+                <td>   <a href="Historico de campeoes.html">  <big> Ultimos campeões </big> </a>&nbsp;  </td>
+                <td>   <a href="noticias.html">  <big> Noticias da  Champions </big> </a>&nbsp; </td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <br>
+        <table align="center">    
+                <td align="center"> <img src="taca.jpg"></td>
+                <td>
+                    <h2>
+                        &nbsp;&nbsp;&nbsp;A Champions League é uma competição anual de futebol em nível <br>continental, organizada pela União das Associações Europeias
+                        de <br>Futebol (UEFA) e disputada por clubes da Europa. É um dos torneios <br>mais prestigiados do mundo e a competição de clubes mais prestigiada <br>no futebol europeu, 
+                        disputada pelas equipes mais bem classificadas <br>nas ligas nacionais na temporada anterior.
+                        A final da Liga dos <br>Campeões da UEFA é o evento esportivo anual mais visto em todo <br>o mundo. A final da edição de 2012-13 teve o maior número de <br>audiências
+                        até o momento, atraindo 360 milhões  de telespectadores.
+                    </h2>    
+                </td>
+        </table>
+        <table align="center">
+            <td> <img src="manchester-city-faturou-o-primeiro-titulo-da-champions-league_1_81727.webp"></td>
+            <td>
+                <h2>   
+                    O Manchester City é o atual campeão europeu, tendo derrotado <br>a Internazionale por 1 a 0 na final de 2023 para conquistar seu <br>primeiro título
+                </h2>    
+            </td>
+        </table>
+    </body>
+</html>
